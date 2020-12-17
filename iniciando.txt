@@ -1,0 +1,7 @@
+
+&7&m-----------&f[&e&lEVENTO MINIGLADIADOR&f]&7&m------------
+&r
+   &cIniciando evento, se agrupe com seu clan!
+   &cTempo restante: &e&l@tempo &fsegundos.
+&r
+&7&m-------------------------------------------

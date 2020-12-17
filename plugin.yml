@@ -1,0 +1,14 @@
+name: MiniGladiador
+main: br.com.sgcraft.minigladiador.Main
+version: 2.0
+depends: [Vault]
+softdepend: [Legendchat,HealthBar,SimpleClans]
+commands:
+   minicastelo:
+   minigladiador:
+      aliases: [miniglad]
+      description: Comando do Gladiador.
+      usage: /<command>
+   minigladiadores:
+      description: Comando do Gladiador.
+      usage: /<command>

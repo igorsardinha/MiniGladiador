@@ -1,0 +1,10 @@
+&7&m-----------&f[&e&lEVENTO MINIGLADIADOR&f]&7&m------------
+&r
+  &c>> &fIniciando evento &eMiniGladiador&f!
+  &c>> &fPara participar use &c/minigladiador&f.
+  &c>> &fTempo restante para entrar: &b@tempo &fsegundos.
+  &c>> &fPrêmio: &aR$@dinheiro &f/ 2 Tag's &f[&eMiniGladiador&f]&f.
+  &c>> &fMax de Jogadores por Clan: &95&f.
+  &c>> &fJogadores: &e@jogadores&f, &fClans: &e@clans&f.
+&r
+&7&m-------------------------------------------

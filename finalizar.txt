@@ -1,0 +1,10 @@
+
+&7&m-----------&f[&e&lEVENTO MINIGLADIADOR&7]&7&m------------
+
+ &c>> &fEvento &eMiniGladiador &ffinalizado!
+ &c>> &fClan Vencedor: &r@clan&f. &ePARABÉNS&f!
+ &c>> &fTag &f[&eMiniGladiador&f]&f: &fEscolha dos Lideres&f.
+ &c>> &fTop Vencedores: &9/minigladiador top&f.
+ &c>> &fCastelo do Vencedor: &b/minicastelo&f.
+
+&7&m-----------------------------------------------
